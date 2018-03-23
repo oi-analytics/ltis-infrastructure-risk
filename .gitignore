@@ -87,15 +87,17 @@ celerybeat-schedule
 venv/
 ENV/
 
-# Spyder project settings
+# Project settings
 .spyderproject
 .spyproject
-
-# Rope project settings
 .ropeproject
+.vscode
 
 # mkdocs documentation
 /site
 
 # mypy
 .mypy_cache/
+
+# Data and config
+config.json
