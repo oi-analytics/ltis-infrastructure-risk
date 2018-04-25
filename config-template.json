@@ -5,5 +5,8 @@
         "database": "",
         "user": "",
         "password": ""
-    }
+    },
+	"files": {
+		"data_path": "~/data/ltis-risk"
+	}
 }
